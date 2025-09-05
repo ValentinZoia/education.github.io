@@ -3,7 +3,12 @@
     <img src='./education1/img/logo (1).png' width="120px"/>
   <h1>
     📒APRENDE PROGRAMANDO DW1
+    
+   
+   
   </h1>
+    <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript" > 
+   <br>
   </div>
 
 
