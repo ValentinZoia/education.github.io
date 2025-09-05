@@ -1,6 +1,12 @@
 <div align="center">
+  <div>
+    <img src='./education1/img/logo (1).png' width="120px"/>
+  <h1>
+    📒APRENDE PROGRAMANDO DW1
+  </h1>
+  </div>
 
-# 📒APRENDE PROGRAMANDO DW1
+
   
 </div>
 Proyecto final de desarrollo web1 en aprende programando. Su objetivo es almacenar contenido educativo, para que cualquiera pueda usarlo.
